@@ -1,61 +1,16 @@
-# STEM Degree Enrollment Survey
+FreeCodeCamp Projects Repository
 
-A responsive web-based survey form designed to collect data on undergraduate STEM degree enrollment patterns and student feedback.
+This repository contains the source code for all of my completed FreeCodeCamp projects. It includes challenges and exercises from various FreeCodeCamp certifications, organized in separate folders for easy reference and learning.
+Folder Structure
 
-## Description
+Each folder corresponds to a specific set of challenges or exercises from a FreeCodeCamp certification. The folders are organized in the order in which the projects were completed. Below is a brief explanation of each folder's contents:
 
-This project implements a user-friendly survey form to gather information about undergraduate students pursuing STEM degrees. The form collects various data points including personal information, degree specifics, and feedback about academic programs.
+    [Folder Name 1]: Description of what this folder contains.
+    [Folder Name 2]: Description of what this folder contains.
+    [Folder Name 3]: Description of what this folder contains.
 
-## Features
+Purpose
 
-- Clean and responsive design
-- Form validation for required fields
-- Multiple input types:
-  - Text input for name
-  - Email validation
-  - Age input with range restrictions (16-90)
-  - Dropdown selection for STEM degree programs
-  - Radio buttons for survey recommendation
-  - Checkboxes for improvement suggestions
-  - Text area for additional comments
+The goal of this repository is to keep track of my progress through FreeCodeCamp, allowing me to revisit solutions, study the progression of my learning, and help others who may be working through similar challenges. Each project is a result of completing a FreeCodeCamp certification, and the code is presented exactly as I completed the exercises.
 
-## Technologies Used
-
-- HTML5
-- CSS3
-- Modern CSS Features:
-  - Flexbox for layout
-  - CSS transitions for interactive elements
-  - Responsive design principles
-
-## Setup
-
-1. Clone the repository
-2. Open `index.html` in your web browser
-
-## File Structure 
-
-## Styling Features
-
-- Responsive layout that works on different screen sizes
-- Modern form design with subtle animations
-- Clean typography using Arial font family
-- Color scheme:
-  - Light gray background
-  - White form container with slight transparency
-  - Blue submit button (#007bff)
-  - Dark hover states for better user interaction
-
-## Contributing
-
-Feel free to fork this project and submit pull requests for any improvements.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Author
-
-Ndinani
-
----
+Feel free to browse the folders, check out the code, or use it as a reference for your own learning.
