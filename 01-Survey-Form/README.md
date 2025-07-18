@@ -33,7 +33,6 @@ This project implements a user-friendly survey form to gather information about 
 1. Clone the repository
 2. Open `index.html` in your web browser
 
-## File Structure 
 
 ## Styling Features
 
